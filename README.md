@@ -5,8 +5,8 @@ Polygon Lottery is a play to mint game that is free to play! Get to mint 5 diffe
 Play the Game https://sabrinamok.github.io/polygon-coin-drop/
 
 How to win a free NFT mint?
-Play 10 rounds of coin drop to score 600 points and above
-Or get the diamond at round 10
+- Play 10 rounds of coin drop to score 600 points and above
+- Or get the diamond at round 10
 
 Mumbai Contract https://mumbai.polygonscan.com/token/0x2b3519b71a9ff47826ff72ac74f98ff05d909100
 
